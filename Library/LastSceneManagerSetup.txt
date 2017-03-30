@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/06_SyncObjectPos/Scenes/06_SyncItemPosition.unity
+  isLoaded: 1
+  isActive: 1
